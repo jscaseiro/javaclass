@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exemplo01",
+            "request": "launch",
+            "mainClass": "exemplos.Exemplo01",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exemplo02",
+            "request": "launch",
+            "mainClass": "exemplos.Exemplo02",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exemplo03",
+            "request": "launch",
+            "mainClass": "exemplos.Exemplo03",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppPessoa",
+            "request": "launch",
+            "mainClass": "exemplos.exemplo04.AppPessoa",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppPessoaconstrutor",
+            "request": "launch",
+            "mainClass": "exemplos.exemplo04.AppPessoaconstrutor",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio01",
+            "request": "launch",
+            "mainClass": "exercicios.Exercicio01",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio02",
+            "request": "launch",
+            "mainClass": "exercicios.Exercicio02",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppVeiculo",
+            "request": "launch",
+            "mainClass": "exercicios.exercicio03.AppVeiculo",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppRelogio",
+            "request": "launch",
+            "mainClass": "exercicios.exercicio04.AppRelogio",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppEbook",
+            "request": "launch",
+            "mainClass": "exercicios.exercicio05.AppEbook",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uri1059",
+            "request": "launch",
+            "mainClass": "uri.Uri1059",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uri1064",
+            "request": "launch",
+            "mainClass": "uri.Uri1064",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uri1066",
+            "request": "launch",
+            "mainClass": "uri.Uri1066",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uri1114",
+            "request": "launch",
+            "mainClass": "uri.Uri1114",
+            "projectName": "aula04_bfbbff75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uri1117",
+            "request": "launch",
+            "mainClass": "uri.Uri1117",
+            "projectName": "aula04_bfbbff75"
+        }
+    ]
+}

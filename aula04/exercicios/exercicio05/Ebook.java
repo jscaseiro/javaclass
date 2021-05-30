@@ -3,7 +3,7 @@ package exercicios.exercicio05;
 public class Ebook {
     // atributos
     private String titulo, autor;
-    private int totalPaginas, paginaAtual, pagina;
+    private int totalPaginas, paginaAtual;
     
     // Primeiro passo é definir o construtor
     public Ebook(String titulo, String autor, int totalPaginas){
